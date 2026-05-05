@@ -1,0 +1,145 @@
+{
+  "siteMetadata": {
+    "siteName": "Casa Juguetes",
+    "tagline": "Donde el juego se convierte en crecimiento",
+    "description": "Centro especializado en Terapia Ocupacional Pediátrica enfocado en el desarrollo integral a través del juego.",
+    "primaryColor": "#06adbf",
+    "secondaryColor": "#127a87",
+    "accentColor": "#e0f2f1",
+    "logoPath": "https://drive.google.com/uc?export=download&id=1zF-gFi8igLgR6cJhP3EkquiM99zegSck"
+  },
+  "businessInformation": {
+    "name": "Casa Juguetes - Terapia Ocupacional",
+    "shortDescription": "Especialistas en potenciar las habilidades de tus hijos en un entorno seguro y divertido.",
+    "fullDescription": "En Casa Juguetes, creemos que el juego es la ocupación principal de la infancia. Nuestro equipo de terapeutas ocupacionales certificados trabaja para ayudar a los niños a alcanzar su máximo potencial, abordando desafíos sensoriales, motores y cognitivos en un ambiente que se siente como un hogar lleno de posibilidades.",
+    "address": "AV Diego Portales 1199 - 3",
+    "city": "Santa Cruz",
+    "country": "Chile",
+    "phone": "+56 9 9914 8789",
+    "email": "hola@casajuguetes.com",
+    "whatsapp": "+56999148789",
+    "googleMapsLink": "https://maps.app.goo.gl/36N54TC6hcqdkVKR7",
+    "openingHours": {
+      "monday": "09:00 - 18:00",
+      "tuesday": "09:00 - 18:00",
+      "wednesday": "09:00 - 18:00",
+      "thursday": "09:00 - 18:00",
+      "friday": "09:00 - 17:00",
+      "saturday": "Cerrado",
+      "sunday": "Cerrado"
+    }
+  },
+  "heroSection": {
+    "headline": "JUEGO QUE DESARROLLA AUTONOMÍA",
+    "subheadline": "Terapia ocupacional para niños enfocada en desarrollar habilidades para la vida diaria.",
+    "callToActionText": "Agenda una valoración",
+    "callToActionLink": "#contact",
+    "heroImage": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&q=80&w=1920"
+  },
+  "aboutSection": {
+    "title": "Nuestra Casa, Tu tranquilidad",
+    "mission": "Brindar intervenciones de terapia ocupacional de alta calidad que empoderen a los niños y sus familias.",
+    "philosophy": "El juego no es solo diversión; es la herramienta más poderosa para el aprendizaje y el desarrollo neurológico.",
+    "description": "Fundada con la visión de crear un espacio donde la terapia no se sienta como una tarea, Casa Juguetes combina evidencia científica con un enfoque lúdico y humano.",
+    "image": "https://images.unsplash.com/photo-1698340311456-77454d0abdc7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "services": [
+    {
+      "id": "sensory-integration",
+      "name": "Integración Sensorial",
+      "shortDescription": "Ayudamos a procesar y organizar la información del entorno.",
+      "fullDescription": "Intervención enfocada en niños con dificultades para procesar estímulos táctiles, auditivos o vestibulares, mejorando su regulación y respuesta al medio.",
+      "ageRange": "2 - 12 años",
+      "sessionDuration": "50 min",
+      "price": "$35.000 CLP",
+      "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "fine-motor-skills",
+      "name": "Motricidad Fina y Grafomotricidad",
+      "shortDescription": "Fortalecemos la precisión para las actividades escolares.",
+      "fullDescription": "Desarrollo de la fuerza y coordinación en manos y dedos para mejorar la escritura, el uso de tijeras y el abrochado de botones.",
+      "ageRange": "4 - 10 años",
+      "sessionDuration": "45 min",
+      "price": "$30.000 CLP",
+      "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "activities-daily-living",
+      "name": "Actividades de la Vida Diaria",
+      "shortDescription": "Fomentamos la independencia en casa.",
+      "fullDescription": "Entrenamiento en rutinas de alimentación, vestido e higiene personal para que el niño sea más autónomo en su día a día.",
+      "ageRange": "3 - 15 años",
+      "sessionDuration": "60 min",
+      "price": "$40.000 CLP",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?auto=format&fit=crop&q=80&w=600"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué es la Terapia Ocupacional?",
+      "answer": "Es una disciplina de la salud que ayuda a las personas a participar en las actividades que quieren y necesitan realizar a través del uso terapéutico de actividades cotidianas."
+    },
+    {
+      "question": "¿A qué edades atienden?",
+      "answer": "Atendemos a bebés desde los 6 meses hasta adolescentes de 16 años, adaptando cada sesión a su etapa de desarrollo."
+    },
+    {
+      "question": "¿Cómo funcionan las sesiones?",
+      "answer": "Cada sesión es individualizada y dura entre 45 y 60 minutos. Utilizamos el juego dirigido para trabajar objetivos específicos de desarrollo."
+    },
+    {
+      "question": "¿Cómo puedo agendar una cita?",
+      "answer": "Puedes contactarnos vía WhatsApp o por correo electrónico para programar una valoración inicial donde conoceremos las necesidades de tu hijo."
+    },
+    {
+      "question": "¿Cuánto tiempo dura el tratamiento?",
+      "answer": "La duración varía según cada niño. Realizamos reevaluaciones periódicas cada 3 o 6 meses para medir el progreso y ajustar los objetivos."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mariana R.",
+      "relation": "Mamá de Mateo (6 años)",
+      "comment": "El cambio en la coordinación de Mateo ha sido increíble. Ahora escribe con mucha más confianza y disfruta ir a sus sesiones.",
+      "rating": 5
+    },
+    {
+      "name": "Jorge L.",
+      "relation": "Papá de Sofía (4 años)",
+      "comment": "Casa Juguetes es realmente un segundo hogar. Sofía ha mejorado mucho en su regulación sensorial gracias a la paciencia de las terapeutas.",
+      "rating": 5
+    }
+  ],
+  "chatbotKnowledgeBase": {
+    "greeting": "¡Hola! Bienvenido a Casa Juguetes. ¿En qué puedo ayudarte hoy?",
+    "servicesOverview": "Ofrecemos integración sensorial, motricidad fina y entrenamiento en actividades de la vida diaria.",
+    "bookingInstructions": "Para agendar, por favor envíanos un mensaje por WhatsApp al +56 9 9914 8789.",
+    "locationInfo": "Estamos ubicados en AV Diego Portales 1199 - 3, Santa Cruz, Chile.",
+    "ageRangeInfo": "Atendemos a niños y adolescentes desde los 6 meses hasta los 16 años.",
+    "sessionDurationInfo": "Nuestras sesiones duran generalmente entre 45 y 60 minutos."
+  },
+  "contactSection": {
+    "contactTitle": "Estamos aquí para escucharte",
+    "contactDescription": "Si tienes dudas sobre el desarrollo de tu hijo, no dudes en contactarnos.",
+    "bookingMessage": "Déjanos tus datos y nos pondremos en contacto contigo a la brevedad.",
+    "whatsappCTA": "Escríbenos por WhatsApp",
+    "mapEmbedLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d715.0604322621359!2d-71.35467452505989!3d-34.631317611979455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM3JzUzLjMiUyA3McKwMjEnMTYuNiJX!5e1!3m2!1sen!2scl!4v1773333422607!5m2!1sen!2scl"
+  },
+  "navigation": [
+    { "label": "Inicio", "href": "#home" },
+    { "label": "Nosotros", "href": "#about" },
+    { "label": "Servicios", "href": "#services" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Contacto", "href": "#contact" }
+  ],
+  "designGuidelines": {
+    "designStyle": "modern minimalistic",
+    "tone": "playful but professional",
+    "typographySuggestion": "Inter for body, Quicksand or Montserrat for headings",
+    "layoutSuggestion": "Clean grids with generous white space and soft rounded corners",
+    "colorMood": "light calipso, welcoming, Health care tones with vibrant calipso like accents",
+    "iconStyle": "Rounded, thin-line icons (Lucide style)",
+    "animationStyle": "Subtle fades and gentle spring movements"
+  }
+}
